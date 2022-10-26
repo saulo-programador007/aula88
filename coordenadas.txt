@@ -1,0 +1,13 @@
+t = madeira
+d = verde escuro
+l = verde claro
+g = terra
+y = parede amarela
+u = especial
+r = telhado
+c = nuvem
+j = diamante
+b = ouro
+p = apagar blocos
+shift+p = aumenta o bloco
+shift+m = diminui o bloco
